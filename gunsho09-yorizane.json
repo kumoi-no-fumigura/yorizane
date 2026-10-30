@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/yorizane",
  "yomi": "こじちゅうさきんごけしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（11世紀）",
+  "author": "源頼実（1015〜1044）",
+  "desc": "蔵人・左衛門尉をつとめた源頼実の家集。題は「故侍中左金吾家集」。四季・恋の歌や、贈答の歌を収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1294,6 +1299,6 @@
   "poems": 111,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
